@@ -1,3 +1,5 @@
+(制作中)
+
 ぜんぶPythonで書かれています。
 `config.json`に学籍番号・パスワード・マトリックスコードを貼り付けて、
 `python kimatsu.py`
